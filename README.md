@@ -2,8 +2,8 @@ This reading group at Oxford Statistics covers [Hypothesis testing with e-values
 
 | Date  | Time | Room | Topic | Presenter | Notes |
 | --- | ---| --- | ---| ---| ---|
-| 16/09/2025 | 12:00  | Meeting Room 3 | Chapter 1/2 - Introduction + Validity | Valentin | |
-| 23/09/2025 | 12:00  | Meeting Room 3 | Chapter 3 - Efficiency | François | |
+| 16/09/2025 | 12:00  | Meeting Room 3 | Chapter 1/2 - Introduction + Validity | François | |
+| 23/09/2025 | 12:00  | Meeting Room 3 | Chapter 3 - Efficiency | Valentin | |
 | 30/09/2025 | 12:00  | Meeting Room 3 | Chapter 4 - Post-hoc testing and decision making | | |
 | 7/10/2025 | 12:00  | Meeting Room 3 | Chapter 5 - Universal inference | | |
 | 14/10/2025 | 12:00  | Meeting Room 3 | Chapter 6 - Log-optimal e-value | | |

@@ -9,5 +9,6 @@ This reading group at Oxford Statistics covers [Hypothesis testing with e-values
 | 14/10/2025 | 12:00  | Meeting Room 3 | Chapter 6 - Log-optimal e-value | François | |
 | 21/10/2025 | 12:00  | Meeting Room 3 | Chapter 7.1 - SAVI | Linying | |
 | 28/10/2025 | 12:00  | Meeting Room 3 | Chapter 7.2 - SAVI | Shirley | |
-| 4/11/2025 | 12:00  | Meeting Room 3 | Chapter 8 - Handling multiple e-values | | |
-| 11/11/2025 | 12:00  | Meeting Room 3 | Chapter 9 - FDR | | |
+| 4/11/2025 | 12:00  | Meeting Room 3 | Chapter 8 - Handling multiple e-values | Valentin | |
+| 11/11/2025 | 12:00  | Meeting Room 3 | [E-Scores for (In)Correctness Assessment of Generative Model Outputs](https://www.arxiv.org/abs/2510.25770) | Guneet | |
+| 18/11/2025 | 12:00  | Meeting Room 3 | Chapter 9 - FDR | | |

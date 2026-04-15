@@ -14,3 +14,4 @@ This reading group at Oxford Statistics covers [Hypothesis testing with e-values
 | 20/01/2026 | 12:00  | Meeting Room 1 | Chapter 9.1 - FDR | Stefano | |
 | 03/02/2026 | 12:00  | Meeting Room 1 | Chapter 9.2 - FDR | Valentin | |
 | 10/02/2026 | 12:00  | Meeting Room 1 | Chapter 9.3 - FDR | Valentin | |
+| 17/02/2026 | 12:00  | Meeting Room 1 | Chapter 9.4 - FDR | Valentin | |

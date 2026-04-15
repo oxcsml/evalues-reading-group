@@ -15,3 +15,6 @@ This reading group at Oxford Statistics covers [Hypothesis testing with e-values
 | 03/02/2026 | 12:00  | Meeting Room 1 | Chapter 9.2 - FDR | Valentin | |
 | 10/02/2026 | 12:00  | Meeting Room 1 | Chapter 9.3 - FDR | Valentin | |
 | 17/02/2026 | 12:00  | Meeting Room 1 | Chapter 9.4 - FDR | Valentin | |
+| 03/03/2026 | 12:00  | Meeting Room 1 | [Automated Hypothesis Validation with Agentic Sequential Falsifications](https://arxiv.org/abs/2502.09858) | Linying | |
+| 10/03/2026 | 12:00  | Meeting Room 1 | [Tight Concentrations and Confidence Sequences from the Regret of Universal Portfolio](https://arxiv.org/abs/2110.14099) | Shirley | |
+| 24/03/2026 | 12:00  | François' office | [Besag-Clifford e-values for unnormalized testing](https://arxiv.org/abs/2603.15845) | François | |

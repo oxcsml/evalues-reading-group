@@ -18,3 +18,10 @@ This reading group at Oxford Statistics covers [Hypothesis testing with e-values
 | 03/03/2026 | 12:00  | Meeting Room 1 | [Automated Hypothesis Validation with Agentic Sequential Falsifications](https://arxiv.org/abs/2502.09858) | Linying | |
 | 10/03/2026 | 12:00  | Meeting Room 1 | [Tight Concentrations and Confidence Sequences from the Regret of Universal Portfolio](https://arxiv.org/abs/2110.14099) | Shirley | |
 | 24/03/2026 | 12:00  | François' office | [Besag-Clifford e-values for unnormalized testing](https://arxiv.org/abs/2603.15845) | François | |
+| 24/03/2026 | 12:00  | François' office | [Besag-Clifford e-values for unnormalized testing](https://arxiv.org/abs/2603.15845) | François | |
+| 21/04/2026 | 12:00  | Meeting Room 1 | [The E-Posterior](https://arxiv.org/abs/2301.01335) - Part 1 | Guneet | |
+| 29/04/2026 | 12:00  | Meeting Room 1 | [The E-Posterior](https://arxiv.org/abs/2301.01335) - Part 2 | Guneet | |
+| 13/05/2026 | 12:00  | Meeting Room 1 | [Time-sensitive anytime-valid testing](https://arxiv.org/abs/2605.06521) | Eugenio | |
+| 20/05/2026 | 12:00  | Meeting Room 1 | [Differentially Private E-Values](https://arxiv.org/abs/2510.18654) | Daniel Csillag (external) | |
+| 27/05/2026 | 12:00  | Meeting Room 1 | [E-statistics, group invariance and anytime-valid testing](https://arxiv.org/abs/2208.07610) | Debolina | |
+| 03/06/2026 | 12:00  | Meeting Room 1 | Optimal e-variables for multivariate mean-testing | Sebastian Arnold (external) | |

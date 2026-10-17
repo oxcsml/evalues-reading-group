@@ -4,7 +4,7 @@ This reading group at Oxford Statistics covers e-values-related topics. Contact 
 | Date | Time | Room | Topic | Presenter | Notes |
 | --- | ---| --- | ---| ---| ---|
 | 19/10/2026 | 16:00 | Small Lecture Theatre | OXCSML Seminar: E-values | Wouter Koolen (external) | |
-| 27/10/2026 | 16:00 | TBA | Introduction to Tabular Foundation Model | Valentin | |
+| 27/10/2026 | 16:00 | TBA | Introduction to Tabular Foundation Models | Valentin | |
 
 
 

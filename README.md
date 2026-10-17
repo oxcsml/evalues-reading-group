@@ -1,4 +1,12 @@
 This reading group at Oxford Statistics covers e-values-related topics. Contact [Stefano](mailto:cortinovis@stats.ox.ac.uk) for more information.
+## Michaelmas 2026
+
+| Date | Time | Room | Topic | Presenter | Notes |
+| --- | ---| --- | ---| ---| ---|
+| 19/10/2026 | 16:00 | Small Lecture Theatre | OXCSML Seminar: E-values | Wouter Koolen (external) | |
+| 27/10/2026 | 16:00 | TBA | Introduction to Tabular Foundation Model | Valentin | |
+
+
 
 ## Trinity 2026
 

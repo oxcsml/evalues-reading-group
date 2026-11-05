@@ -4,7 +4,7 @@ This reading group at Oxford Statistics covers e-values-related topics. Contact 
 | Date | Time | Room | Topic | Presenter | Notes |
 | --- | ---| --- | ---| ---| ---|
 | 01/12/2026 | 12:00 | Meeting Room 1 | TBA | Valentin R.| |
-| 24/12/2026 | 12:00 | Meeting Room 1 | TBA | Debolina | |
+| 24/12/2026 | 12:00 | Meeting Room 1 | Bayes-assisted anytime-valid -tests for Gaussian means with unknown variance | Debolina | |
 | 17/11/2026 | 12:00 | Meeting Room 1 | TBA | Sebastian Koch | |
 | 10/11/2026 | 12:00 | Meeting Room 1 | [Stopping Rules for Stochastic Gradient Descent via Anytime-Valid Confidence Sequences](https://arxiv.org/abs/2512.13123) & [A general recipe for data-adaptive anytime-valid envelopes for iterative algorithms](https://arxiv.org/abs/2610.23570)| Benjamin | |
 | 03/11/2026 | 12:00 | Meeting Room 1 | [Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification](https://arxiv.org/abs/2608.06250) | Shirley | |

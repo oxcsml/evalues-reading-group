@@ -6,7 +6,7 @@ This reading group at Oxford Statistics covers e-values-related topics. Contact 
 | 01/12/2026 | 12:00 | Meeting Room 1 | TBA | Valentin R.| |
 | 24/12/2026 | 12:00 | Meeting Room 1 | TBA | Debolina | |
 | 17/11/2026 | 12:00 | Meeting Room 1 | TBA | Sebastian Koch | |
-| 10/11/2026 | 12:00 | Meeting Room 1 | TBA | Benjamin | |
+| 10/11/2026 | 12:00 | Meeting Room 1 | [Stopping Rules for Stochastic Gradient Descent via Anytime-Valid Confidence Sequences](https://arxiv.org/abs/2512.13123) & [A general recipe for data-adaptive anytime-valid envelopes for iterative algorithms](https://arxiv.org/abs/2610.23570)| Benjamin | |
 | 03/11/2026 | 12:00 | Meeting Room 1 | [Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification](https://arxiv.org/abs/2608.06250) | Shirley | |
 | 27/10/2026 | 12:00 | Meeting Room 1 | Introduction to Tabular Foundation Models | Valentin K. | |
 | 19/10/2026 | 16:00 | Small Lecture Theatre | OXCSML Seminar: E-values | Wouter Koolen (external) | |
